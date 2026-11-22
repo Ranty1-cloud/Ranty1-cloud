@@ -28,7 +28,7 @@
 ```json
 {
   "name": "Katungwa Victer Muuo",
-  "alias": "Ranty1-cloud",
+  "alias": "Ranty",
   "location": "Nairobi, Kenya",
   "languages": ["English", "Swahili"],
   "roles": [
