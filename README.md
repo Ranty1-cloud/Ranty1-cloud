@@ -54,7 +54,7 @@ I build full-stack applications, then break them the way a real attacker would. 
 
 ---
 
-## 🧰 `~/arsenal`
+## 🧰 `arsenal`
 
 ### 💻 Engineering
 
@@ -111,7 +111,7 @@ I build full-stack applications, then break them the way a real attacker would. 
 
 ---
 
-## 🎯 `~/methodology`
+## 🎯 `methodology`
 
 <details open>
 <summary><b>🔴 Penetration Testing Workflow</b></summary>
@@ -183,7 +183,7 @@ flowchart LR
 
 ---
 
-## 🚀 `~/projects`
+## 🚀 `projects`
 
 <table>
   <tr>
@@ -232,7 +232,7 @@ A home lab for practising attacks and detections: vulnerable targets, a SIEM, an
 
 ---
 
-## 📊 `~/stats`
+## 📊 `stats`
 
 <div align="center">
 
@@ -249,7 +249,7 @@ A home lab for practising attacks and detections: vulnerable targets, a SIEM, an
 
 ---
 
-## 🐍 `~/contributions`
+## 🐍 `contributions`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ranty1-cloud/Ranty1-cloud/output/github-snake-dark.svg" alt="Contribution snake" width="95%" />
@@ -257,7 +257,7 @@ A home lab for practising attacks and detections: vulnerable targets, a SIEM, an
 
 ---
 
-## 🎯 `~/currently`
+## 🎯 `currently`
 
 - 🔭 Building secure full-stack apps with Next.js and Supabase
 - 🧪 Practising on TryHackMe, Hack The Box and PortSwigger labs
@@ -267,7 +267,7 @@ A home lab for practising attacks and detections: vulnerable targets, a SIEM, an
 
 ---
 
-## 🧠 `~/principles`
+## 🧠 `principles`
 
 ```text
 [+] Attacker mindset, defender discipline
@@ -279,7 +279,7 @@ A home lab for practising attacks and detections: vulnerable targets, a SIEM, an
 
 ---
 
-## 📫 `~/contact`
+## 📫 `contact`
 
 <div align="center">
 
